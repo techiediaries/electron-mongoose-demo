@@ -14,7 +14,7 @@ This example desktop app makes use of the following web technologies and tools:
 * The Mongoose ODM to interface with a MongoDB database.  
 * Angular.js 1.x JavaScript framework for the application code.
 
-The example demonstrates how to do CRUD (Create-Read-Update-Delete) operations against a MySQL database.
+The example demonstrates how to do CRUD (Create-Read-Update-Delete) operations against a MongoDB database.
 It provides also a simple pagination system to paginate data.
 
 
